@@ -72,5 +72,6 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <br></li>
 <li> <b>W. Zhou*</b>, C. Liu, J. Lei, and L. Yu, "Remaking learning: A lightweight network for saliency redetection on RGB-D images," <b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b>, Accept. <span style="color:red">(SCI)</span>
  <br></li>
-  </ul>	
-	<hr />
+  </div>
+	</ul>	
+
