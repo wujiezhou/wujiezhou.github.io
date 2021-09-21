@@ -35,6 +35,9 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </div>
 
 ### 代表作
+<ul class="graid3-ul">
+<div style="text-align: justify; display: block; margin-right: auto;">
+
 <li><div style="text-align:justify;text-justify:inter-ideograph">[1] <b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i> </b>, doi: 10.1109/TIP.2021.3109518 <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9531449">[IEEE Xplore] </a> </div> 
 </li>
 <div style="text-align:justify;text-justify:inter-ideograph">[2] <b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M. Wu and T. Luo, “Local and Global Feature Learning for Blind Quality Evaluation of Screen Content and Natural Scene Images,” <b><i>IEEE Transactions on Image Processing</i> </b>, vol. 27, no. 5, pp. 2086-2095, May 2018, doi: 10.1109/TIP.2018.2794207. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/8259349">[IEEE Xplore] </a> </div>
@@ -69,3 +72,5 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 
 <div style="text-align:justify;text-justify:inter-ideograph">[17] <b>W. Zhou*</b>, C. Liu, J. Lei, and L. Yu, "Remaking learning: A lightweight network for saliency redetection on RGB-D images," <b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b>, Accept. <span style="color:red">(SCI)</span></div>
   
+  </ul>	
+	<hr />
