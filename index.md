@@ -1,13 +1,12 @@
-## Welcome to visit Wujie Zhou's Homepage!
-### 
+### Welcome to visit Wujie Zhou's Homepage!
 <table>
   <tr>
    <td width="70%">
     <h1> Wujie Zhou </h1>
-    <p><b> Ph.D., Associate Professor </p></b> 
-    <p><b> Email: wujiezhou@163.com </p></b> 
-    <p><b> [中文简历](https://www.scholat.com/zhouwujie) </p></b>      
-    <p><b> Research Interests: Computer vision,Deep Learning,Image Processing </p></b>      
+    <p><b> Ph.D., Associate Professor </b></p>
+    <p><b> Email: wujiezhou@163.com </b></p> 
+    <p><b> [中文简历](https://www.scholat.com/zhouwujie) </b></p>      
+    <p><b> Research Interests: Computer vision, Deep Learning, Image Processing </b></p>      
    </td>
     <td width="30%">
       <img src="/wujiezhou.jpg" width="100%">
