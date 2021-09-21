@@ -5,6 +5,7 @@
     <h1> Wujie Zhou </h1>
     <p><b> Ph.D., Associate Professor </b></p>
     <p><b> Email: wujiezhou@163.com </b></p> 
+     <a href="https://www.scholat.com/zhouwujie">中文简历</a>
     <p> <b> Research Interests: </b> </p>
     <p> Computer vision </p>  
     <p> Deep Learning</p>  
@@ -15,7 +16,6 @@
    </td>
   </tr>  
 </table> 
-<b>[中文简历](https://www.scholat.com/zhouwujie)  </b>
 
 ### Student Recruitment
 I am looking for self-motivated candidates who have solid mathematical backgrounds, strong English ability, and strong coding skills, including senior undergraduate and postgraduate. If you are interested in doing research on Computer Vision, Deep Learning, image processing please drop me an e-mail (wujiezhou@163.com) with your detailed CV.
