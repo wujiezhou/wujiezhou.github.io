@@ -66,7 +66,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <br></li>
 <li> <b>W. Zhou*</b>, W. Liu, J. Lei, T. Luo, L. Yu, “Deep binocular fixation prediction using hierarchical multimodal fusion network,” <b><i>IEEE Transactions on Cognitive and Developmental Systems</i> </b>, doi: 10.1109/TCDS.2021.3051010. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9320595" target="_blank">[IEEE Xplore] </a> 
 <br></li>
-<li> <b>W. Zhou*</b>, S. Pan, J. Lei, and L. Yu, "TMFNet: Three-Input Multilevel Fusion Network for Detecting Salient Objects in RGB-D Images," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i> </b>, DOI: 10.1109/TETCI.2021.3097393<span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9512550 target="_blank"">[IEEE Xplore] </a> 
+<li> <b>W. Zhou*</b>, S. Pan, J. Lei, and L. Yu, "TMFNet: Three-Input Multilevel Fusion Network for Detecting Salient Objects in RGB-D Images," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i> </b>, DOI: 10.1109/TETCI.2021.3097393<span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9512550" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 <li> <b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M.-W. Wu, T. Luo, “Blind quality estimator for 3D images based on binocular combination and extreme learning machine,” <b><i>Pattern Recognition</i> </b>, vol. 71, pp. 207–217, Nov. 2017. <span style="color:red">(SCI)</span> 
 <br></li>
