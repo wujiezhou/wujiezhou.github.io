@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
    <td width="50%">
-      <img src="/周武杰.bmp" width="100%">
+      <img src="/wujiezhou.jpg" width="100%">
    </td>
   </tr>  
 </table> 
