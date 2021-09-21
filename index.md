@@ -6,7 +6,10 @@
     <p><b> Ph.D., Associate Professor </b></p>
     <p><b> Email: wujiezhou@163.com </b></p> 
     <p><b> [中文简历](https://www.scholat.com/zhouwujie) </b></p>      
-    <p><b> Research Interests: Computer vision, Deep Learning, Image Processing </b></p>      
+    <p><b> Research Interests: </b></p> 
+    <p><b> Computer vision</b></p>  
+    <p><b> Deep Learning</b></p>  
+    <p><b> Image Processing </b></p>      
    </td>
     <td width="30%">
       <img src="/wujiezhou.jpg" width="100%">
