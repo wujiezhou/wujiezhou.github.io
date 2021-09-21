@@ -5,7 +5,6 @@
     <h1> Wujie Zhou </h1>
     <p><b> Ph.D., Associate Professor </b></p>
     <p><b> Email: wujiezhou@163.com </b></p> 
-     [中文简历][IEEE Xplore](https://www.scholat.com/zhouwujie.en)  
     <p> <b> Research Interests: </b> </p>
     <p> Computer vision </p>  
     <p> Deep Learning</p>  
@@ -16,7 +15,7 @@
    </td>
   </tr>  
 </table> 
-
+<b>[中文简历](https://www.scholat.com/zhouwujie.en)  </b>
 
 ### 个人简介：
 
