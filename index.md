@@ -22,7 +22,7 @@
 
 ### 代表作
 
-[1] W. Zhou*, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation,” IEEE Transactions on Image Processing, Accept, doi: 10.1109/TIP.2021.3109518 (SCI)
+[1] W. Zhou*, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation,” IEEE Transactions on Image Processing, Accept, doi: 10.1109/TIP.2021.3109518 (SCI)[editor on GitHub](https://github.com/wujiezhou/wjzhou-github.io/edit/gh-pages/index.md)
 
 [2] W. Zhou*, L. Yu, Y. Zhou, W. Qiu, M. Wu and T. Luo, “Local and Global Feature Learning for Blind Quality Evaluation of Screen Content and Natural Scene Images,” IEEE Transactions on Image Processing, vol. 27, no. 5, pp. 2086-2095, May 2018, doi: 10.1109/TIP.2018.2794207. （SCI）
 
