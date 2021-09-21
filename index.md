@@ -22,7 +22,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 
 ### Recent News:
 
-09/2021 One paper has been newly selected as ESI高被引论文
+09/2021 One paper has been newly selected as ESI Highly Cited Paper
 
 08/2021 One paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing
 
@@ -44,7 +44,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 
 [5] W. Zhou*, Q. Guo, J. Lei, L. Yu and J.-N. Hwang, "IRFR-Net: Interactive Recursive Feature-reshaping Network for Detecting Salient Objects in RGB-D Images," IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2021.3105484.（SCI）
 
-[6] W. Zhou*, Y. Lv, J. Lei and L. Yu, “Global and Local-Contrast Guides Content-Aware Fusion for RGB-D Saliency Prediction,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2019.2957386. （SCI，ESI高被引论文）
+[6] W. Zhou*, Y. Lv, J. Lei and L. Yu, “Global and Local-Contrast Guides Content-Aware Fusion for RGB-D Saliency Prediction,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2019.2957386. （SCI, ESI Highly Cited Paper）
 
 [7] W. Zhou*, Y. Zhu, J. Lei, J. Wan, and L. Yu, "CCAFNet: Crossflow and cross-scale adaptive fusion network for detecting salient objects in RGB-D images," IEEE Transactions on Multimedia, doi: 10.1109/TMM.2021.3077767（SCI）
 
@@ -104,7 +104,7 @@ K. Huang (本科生) and W. Zhou*, Saliency Prediction of S3D images, Computatio
 
 W. Zhou*, J. Wu, J. Lei, J.-N. Hwang and L. Yu, “Salient Object Detection in Stereoscopic 3D Images Using a Deep Convolutional Residual Autoencoder,” IEEE Transactions on Multimedia, doi: 10.1109/TMM.2020.3025166（SCI）
 
-W. Zhou*, Y. Lv, J. Lei and L. Yu, “Global and Local-Contrast Guides Content-Aware Fusion for RGB-D Saliency Prediction,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2019.2957386. （SCI，ESI高被引论文）
+W. Zhou*, Y. Lv, J. Lei and L. Yu, “Global and Local-Contrast Guides Content-Aware Fusion for RGB-D Saliency Prediction,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, doi: 10.1109/TSMC.2019.2957386. （SCI，ESI Highly Cited Paper）
 
 W. Zhou*, J. Lei, Q. Jiang, L. Yu and T. Luo, “Blind Binocular Visual Quality Predictor Using Deep Fusion Network,” IEEE Transactions on Computational Imaging, vol. 6, pp. 883-893, 2020, doi: 10.1109/TCI.2020.2993640.（SCI）
 
@@ -118,7 +118,7 @@ W. Zhou*, S. Pan, J. Lei, L. Yu, X. Zhou and T. Luo, “Three-branch architectur
 
 W. Zhou*, X. Lin, J. Lei, L. Yu, X. Zhou and T. Luo, “Opinion-Unaware Blind Picture Quality Measurement Using Deep Encoder-Decoder Architecture,” Digital Signal Processing, https://doi.org/10.1016/j.dsp.2020.102834（SCI）
 
-J. Wu (研究生), W. Zhou*, T. Luo, L. Yu, J. Lei, “Multiscale Multilevel Context and Multimodal Fusion for RGB-D Salient Object Detection,” Signal Processing, Vol. 178, 2021, 107766. doi: 10.1016/j.sigpro.2020.107766（SCI, ESI高被引论文）
+J. Wu (研究生), W. Zhou*, T. Luo, L. Yu, J. Lei, “Multiscale Multilevel Context and Multimodal Fusion for RGB-D Salient Object Detection,” Signal Processing, Vol. 178, 2021, 107766. doi: 10.1016/j.sigpro.2020.107766（SCI, ESI Highly Cited Paper）
 
 C. Liu (研究生), W. Zhou*, Y. Chen, J. Lei, “Asymmetric Deeply Fused Network for Detecting Salient Objects in RGB-D Images,” IEEE Signal Processing Letters, doi: 10.1109/LSP.2020.3023349（SCI）
 
