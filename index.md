@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-     <h1> Wujie Zhou </hl>
+     <h1> Welcome to visit Wujie Zhou's Homepage! </hl>
      <p><b> E-amil: wujiezhou@163.com </b></p>
     </td>
    <td width="25%">
