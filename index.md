@@ -1,12 +1,8 @@
 ## Welcome to visit Wujie Zhou's Homepage!
 <table border="0">
   <tr>
-    <td width="75%">
-     <h1> Welcome to visit Wujie Zhou's Homepage! </hl>
-     <p><b> E-amil: wujiezhou@163.com </b></p>
-    </td>
-   <td width="25%">
-      <img src="/周武杰.bmp" width="1005">
+   <td width="50%">
+      <img src="/周武杰.bmp" width="100%">
    </td>
   </tr>  
 </table> 
