@@ -35,8 +35,8 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </div>
 
 ### 代表作
-<div style="text-align:justify;text-justify:inter-ideograph">[1] <b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i> </b>, doi: 10.1109/TIP.2021.3109518 <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9531449">[IEEE Xplore] </a> </div> 
-
+<li><div style="text-align:justify;text-justify:inter-ideograph">[1] <b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i> </b>, doi: 10.1109/TIP.2021.3109518 <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9531449">[IEEE Xplore] </a> </div> 
+</li>
 <div style="text-align:justify;text-justify:inter-ideograph">[2] <b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M. Wu and T. Luo, “Local and Global Feature Learning for Blind Quality Evaluation of Screen Content and Natural Scene Images,” <b><i>IEEE Transactions on Image Processing</i> </b>, vol. 27, no. 5, pp. 2086-2095, May 2018, doi: 10.1109/TIP.2018.2794207. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/8259349">[IEEE Xplore] </a> </div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">[3] <b>W. Zhou*</b>, J. Wu, J. Lei, J.-N. Hwang and L. Yu, “Salient Object Detection in Stereoscopic 3D Images Using a Deep Convolutional Residual Autoencoder,” <b><i>IEEE Transactions on Multimedia</i> </b>, doi: 10.1109/TMM.2020.3025166 <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9201176">[IEEE Xplore] </a> </div>
