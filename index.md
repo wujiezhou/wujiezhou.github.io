@@ -24,6 +24,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 
 ### Recent News:
 
+<p style="text-align:justify; text-justify:inter-ideograph;">
 09/2021 One paper has been newly selected as ESI Highly Cited Paper
 
 08/2021 One paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing
@@ -33,6 +34,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 08/2021 One paper has been accepted by SCIENCE CHINA Information Sciences （中国科学）
 
 08/2021 One paper has been accepted by IEEE Transactions on Neural Networks and Learning Systems
+</p>
 
 ### 代表作
 
