@@ -5,7 +5,7 @@
     <h1> Wujie Zhou </h1>
     <p><b> Ph.D., Associate Professor </b></p>
     <p><b> Email: wujiezhou@163.com </b></p> 
-<b>[中文简历](https://www.scholat.com/zhouwujie) </b>    
+     [中文简历][IEEE Xplore](https://www.scholat.com/zhouwujie.en)  
     <p> <b> Research Interests: </b> </p>
     <p> Computer vision </p>  
     <p> Deep Learning</p>  
@@ -40,7 +40,7 @@
 
 ### 代表作
 
-[1] <b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation,” IEEE Transactions on Image Processing, Accept, doi: 10.1109/TIP.2021.3109518 (SCI) [IEEE Xplore](https://ieeexplore.ieee.org/document/9531449)
+[1] <b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation,” IEEE Transactions on Image Processing, doi: 10.1109/TIP.2021.3109518 (SCI) [IEEE Xplore](https://ieeexplore.ieee.org/document/9531449)
 
 [2] W. Zhou*, L. Yu, Y. Zhou, W. Qiu, M. Wu and T. Luo, “Local and Global Feature Learning for Blind Quality Evaluation of Screen Content and Natural Scene Images,” IEEE Transactions on Image Processing, vol. 27, no. 5, pp. 2086-2095, May 2018, doi: 10.1109/TIP.2018.2794207. （SCI）
 
