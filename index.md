@@ -15,15 +15,10 @@
    </td>
   </tr>  
 </table> 
-<b>[中文简历](https://www.scholat.com/zhouwujie.en)  </b>
+<b>[中文简历](https://www.scholat.com/zhouwujie)  </b>
 
-### 个人简介：
-
-周武杰，1983年9月出生，副教授/博士后，硕士生导师，浙江省电子学会理事，Member IEEE， Member CCF，中国人工智能学会会员，浙江省“计算机科学与技术”一流学科B类方向负责人。2012年入选“青年骨干教师”，2015年入选“优秀青年教师资助计划”，2016年入选“科大青年英才”。浙江大学信息与通信工程专业博士后，国家留学基金委公派新加坡南洋理工大学访问学者1年。主要从事人工智能与深度学习、机器视觉与模式识别、图像处理等方面的研究；近几年以第一作者在TIP、TNNLS、TCSVT、TMM、TSMC-S、TBC、TGRS、TCI、MIS、TCDS、TETCI、PR和中国科学等国际权威SCI期刊或核心期刊上发表学术论文50多篇，其中SCI收录30多篇（中科院一区12篇, IEEE Trans.汇刊14篇，CAA-A类期刊13篇, CCF-A和B类期刊12篇，ESI热点/高被引论文2篇），H指数 (h-index)18 (Google Scholar)，被引频次总计900+ (Google Scholar)；申请国家发明专利60多项，授权40多项，多项已转让投产；获市科学技术进步奖二等奖1项；担任国家基金通讯评审专家，浙江省科技专家库专家，广东省基金项目评审专家；担任TIP、TCYB、TMM、TBC、JSTSP、TSMC-S、SPL等国外权威SCI期刊稿件评审人。目前，主持国家自然科学基金1项，省自然科学基金2项，中国博士后基金1项，企业重大横向课题3项，重中之重实验室开放基金2项和教育厅科研项目1项。指导学生获中国服务外包创新创业大赛二等奖1项.
-
-### 招收研究生:
-
-视觉智能感知与理解实验室(中央支持地方高校改革发展专项资助建设，项目编号：303011-2019-0008)招收硕士研究生（学硕：先进制造与信息化，专硕：机械、应用统计），主要研究方向：人工智能与深度学习、机器视觉与模式识别、图像处理、视觉大数据统计与应用。本实验室毕业生起薪15K/月以上，目前指导的研究生中4名获国家奖学金（奖金2万/人），1名获卓越学子奖学金（奖金3万/人）。预加入实验室请发个人简历和本科成绩（可系统截图）到E-mail: wujiezhou@163.com
+### Student Recruitment
+I am looking for self-motivated candidates who have solid mathematical backgrounds, strong English ability, and strong coding skills, including senior undergraduate and postgraduate. If you are interested in doing research on Computer Vision, Deep Learning, image processing please drop me an e-mail (wujiezhou@163.com) with your detailed CV.
 
 ### Recent News:
 
