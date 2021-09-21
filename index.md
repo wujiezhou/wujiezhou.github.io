@@ -5,7 +5,7 @@
     <h1> Wujie Zhou </h1>
     <p><b> Ph.D., Associate Professor </b></p>
     <p><b> Email: wujiezhou@163.com </b></p> 
-    <p><b>[中文简历](https://www.scholat.com/zhouwujie) </b></p>      
+<b>[中文简历](https://www.scholat.com/zhouwujie) </b>    
     <p> <b> Research Interests: </b> </p>
     <p> Computer vision </p>  
     <p> Deep Learning</p>  
@@ -20,7 +20,7 @@
 
 ### 个人简介：
 
-<p>周武杰，1983年9月出生，副教授/博士后，硕士生导师，浙江省电子学会理事，Member IEEE， Member CCF，中国人工智能学会会员，浙江省“计算机科学与技术”一流学科B类方向负责人。2012年入选“青年骨干教师”，2015年入选“优秀青年教师资助计划”，2016年入选“科大青年英才”。浙江大学信息与通信工程专业博士后，国家留学基金委公派新加坡南洋理工大学访问学者1年。主要从事人工智能与深度学习、机器视觉与模式识别、图像处理等方面的研究；近几年以第一作者在TIP、TNNLS、TCSVT、TMM、TSMC-S、TBC、TGRS、TCI、MIS、TCDS、TETCI、PR和中国科学等国际权威SCI期刊或核心期刊上发表学术论文50多篇，其中SCI收录30多篇（中科院一区12篇, IEEE Trans.汇刊14篇，CAA-A类期刊13篇, CCF-A和B类期刊12篇，ESI热点/高被引论文2篇），H指数 (h-index)18 (Google Scholar)，被引频次总计900+ (Google Scholar)；申请国家发明专利60多项，授权40多项，多项已转让投产；获市科学技术进步奖二等奖1项；担任国家基金通讯评审专家，浙江省科技专家库专家，广东省基金项目评审专家；担任TIP、TCYB、TMM、TBC、JSTSP、TSMC-S、SPL等国外权威SCI期刊稿件评审人。目前，主持国家自然科学基金1项，省自然科学基金2项，中国博士后基金1项，企业重大横向课题3项，重中之重实验室开放基金2项和教育厅科研项目1项。指导学生获中国服务外包创新创业大赛二等奖1项.</p>
+周武杰，1983年9月出生，副教授/博士后，硕士生导师，浙江省电子学会理事，Member IEEE， Member CCF，中国人工智能学会会员，浙江省“计算机科学与技术”一流学科B类方向负责人。2012年入选“青年骨干教师”，2015年入选“优秀青年教师资助计划”，2016年入选“科大青年英才”。浙江大学信息与通信工程专业博士后，国家留学基金委公派新加坡南洋理工大学访问学者1年。主要从事人工智能与深度学习、机器视觉与模式识别、图像处理等方面的研究；近几年以第一作者在TIP、TNNLS、TCSVT、TMM、TSMC-S、TBC、TGRS、TCI、MIS、TCDS、TETCI、PR和中国科学等国际权威SCI期刊或核心期刊上发表学术论文50多篇，其中SCI收录30多篇（中科院一区12篇, IEEE Trans.汇刊14篇，CAA-A类期刊13篇, CCF-A和B类期刊12篇，ESI热点/高被引论文2篇），H指数 (h-index)18 (Google Scholar)，被引频次总计900+ (Google Scholar)；申请国家发明专利60多项，授权40多项，多项已转让投产；获市科学技术进步奖二等奖1项；担任国家基金通讯评审专家，浙江省科技专家库专家，广东省基金项目评审专家；担任TIP、TCYB、TMM、TBC、JSTSP、TSMC-S、SPL等国外权威SCI期刊稿件评审人。目前，主持国家自然科学基金1项，省自然科学基金2项，中国博士后基金1项，企业重大横向课题3项，重中之重实验室开放基金2项和教育厅科研项目1项。指导学生获中国服务外包创新创业大赛二等奖1项.
 
 ### 招收研究生:
 
@@ -40,7 +40,7 @@
 
 ### 代表作
 
-[1] W. Zhou*, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation,” IEEE Transactions on Image Processing, Accept, doi: 10.1109/TIP.2021.3109518 (SCI) [IEEE Xplore](https://ieeexplore.ieee.org/document/9531449)
+[1] <b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation,” IEEE Transactions on Image Processing, Accept, doi: 10.1109/TIP.2021.3109518 (SCI) [IEEE Xplore](https://ieeexplore.ieee.org/document/9531449)
 
 [2] W. Zhou*, L. Yu, Y. Zhou, W. Qiu, M. Wu and T. Luo, “Local and Global Feature Learning for Blind Quality Evaluation of Screen Content and Natural Scene Images,” IEEE Transactions on Image Processing, vol. 27, no. 5, pp. 2086-2095, May 2018, doi: 10.1109/TIP.2018.2794207. （SCI）
 
