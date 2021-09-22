@@ -52,7 +52,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <br></li>
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Zhu, J. Lei, J. Wan, and L. Yu, "CCAFNet: Crossflow and cross-scale adaptive fusion network for detecting salient objects in RGB-D images," <b><i>IEEE Transactions on Multimedia</i> </b>, doi: 10.1109/TMM.2021.3077767. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9424966" target="_blank">[IEEE Xplore] </a> 
 <br></li>
-<li style="margin-bottom: 15px"><b>W. Zhou*</b>, X. Lin, J. Lei, L. Yu and J.-N. Hwang, "MFFENet: Multiscale Feature Fusion and Enhancement Network for RGB–Thermal Urban Road Scene Parsing,” <b><i>IEEE Transactions on Multimedia</i> </b>, doi: 10.1109/TMM.2021.3086618. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9447924" target="_blank">[IEEE Xplore] </a> 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, X. Lin, J. Lei, L. Yu and J.-N. Hwang, "MFFENet: Multiscale Feature Fusion and Enhancement Network for RGB–Thermal Urban Road Scene Parsing,” <b><i>IEEE Transactions on Multimedia</i> </b>, doi: 10.1109/TMM.2021.3086618. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9447924" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1dm1ZKfEStRNCdNabFcj8wQ">[Results]</a> 提取码: 1d45 
 <br></li>
 <li style="margin-bottom: 15px"><b>W. Zhou*</b> and L. Yu, “Binocular Responses for No-Reference 3D Image Quality Assessment,” <b><i>IEEE Transactions on Multimedia</i> </b>, vol. 18, no. 6, pp. 1077-1084, June 2016, doi: 10.1109/TMM.2016.2542580. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/7434031" target="_blank">[IEEE Xplore] </a> 
 <br></li>
