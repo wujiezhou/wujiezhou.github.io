@@ -24,15 +24,15 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 
 ### Recent News
 
-<div style="text-align:justify;text-justify:inter-ideograph"><li>09/2021 One paper has been newly selected as <b><i>ESI Highly Cited Paper</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been newly selected as <b><i>ESI Highly Cited Paper</i> </b> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph"><li>08/2021 One paper has been accepted by <b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph"><li>08/2021 One paper has been accepted by <b><i>IEEE Transactions on Image Processing</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>IEEE Transactions on Image Processing</i> </b> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph"><li>08/2021 One paper has been accepted by <b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph"><li>08/2021 One paper has been accepted by <b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </div>
 
 ### 代表作
 <ul class="graid3-ul">
