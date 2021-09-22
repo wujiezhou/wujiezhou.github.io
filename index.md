@@ -35,8 +35,10 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </div>
 
 ### 代表作
+<!--
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
+--> 
 <ol>
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i></b>, vol. 30, pp. 7790-7802, 2021. doi: 10.1109/TIP.2021.3109518. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9531449" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1LPZ845jeJQ7ANeKp-6kFrA">[Results]</a> 提取码: v1fy 
 <br></li>
