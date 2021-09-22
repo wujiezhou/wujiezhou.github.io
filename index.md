@@ -35,7 +35,6 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <div style="text-align:justify;text-justify:inter-ideograph"><li>08/2021 One paper has been accepted by <b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </div>
 
 ### 代表作
-<ol>
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
 
@@ -76,4 +75,4 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 
 </div>
 </ul>	
-</ol>
+
