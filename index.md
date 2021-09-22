@@ -38,7 +38,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
 
-<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i></b>, doi: 10.1109/TIP.2021.3109518. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9531449" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1LPZ845jeJQ7ANeKp-6kFrA">[Results]</a> 提取码: v1fy 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i></b>, vol. 30, pp. 7790-7802, 2021. doi: 10.1109/TIP.2021.3109518. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9531449" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1LPZ845jeJQ7ANeKp-6kFrA">[Results]</a> 提取码: v1fy 
 <br></li>
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M. Wu and T. Luo, “Local and Global Feature Learning for Blind Quality Evaluation of Screen Content and Natural Scene Images,” <b><i>IEEE Transactions on Image Processing</i></b>, vol. 27, no. 5, pp. 2086-2095, May 2018, doi: 10.1109/TIP.2018.2794207. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/8259349" target="_blank">[IEEE Xplore] </a> 
 <br></li>
@@ -60,7 +60,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <br></li>
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, Q. Jiang, L. Yu and T. Luo, “Blind Binocular Visual Quality Predictor Using Deep Fusion Network,” <b><i>IEEE Transactions on Computational Imaging</i></b>, vol. 6, pp. 883-893, 2020, doi: 10.1109/TCI.2020.2993640. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9093188" target="_blank">[IEEE Xplore] </a> 
 <br></li>
-<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, T. Luo, “TSNet: Three-stream Self-attention Network for RGB-D Indoor Semantic Segmentation,” <b><i>IEEE Intelligent Systems</i></b>, doi: 10.1109/MIS.2020.2999462. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9113665" target="_blank">[IEEE Xplore] </a> 
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, T. Luo, “TSNet: Three-stream Self-attention Network for RGB-D Indoor Semantic Segmentation,” <b><i>IEEE Intelligent Systems</i></b>, vol. 36, no. 4, pp. 73-78, 2021. doi: 10.1109/MIS.2020.2999462. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9113665" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, W. Qiu and M. Wu, “Utilizing Dictionary Learning and Machine Learning for Blind Quality Assessment of 3-D Images,” <b><i>IEEE Transactions on Broadcasting</i></b>, vol. 63, no. 2, pp. 404-415, June 2017, doi: 10.1109/TBC.2016.2638620. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/7811252" target="_blank">[IEEE Xplore] </a> 
 <br></li>
