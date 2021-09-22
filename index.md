@@ -38,7 +38,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
 
-<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i> </b>, doi: 10.1109/TIP.2021.3109518. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9531449" target="_blank">[IEEE Xplore] </a> 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i> </b>, doi: 10.1109/TIP.2021.3109518. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9531449" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1LPZ845jeJQ7ANeKp-6kFrA">[Results]</a> 提取码: v1fy 
 <br></li>
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M. Wu and T. Luo, “Local and Global Feature Learning for Blind Quality Evaluation of Screen Content and Natural Scene Images,” <b><i>IEEE Transactions on Image Processing</i> </b>, vol. 27, no. 5, pp. 2086-2095, May 2018, doi: 10.1109/TIP.2018.2794207. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/8259349" target="_blank">[IEEE Xplore] </a> 
 <br></li>
