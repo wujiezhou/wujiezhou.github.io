@@ -70,7 +70,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <br></li>
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M.-W. Wu, T. Luo, “Blind quality estimator for 3D images based on binocular combination and extreme learning machine,” <b><i>Pattern Recognition</i> </b>, vol. 71, pp. 207–217, Nov. 2017. <span style="color:red">(SCI)</span> 
 <br></li>
-<li style="margin-bottom: 15px"><b>W. Zhou*</b>, C. Liu, J. Lei, and L. Yu, "Remaking learning: A lightweight network for saliency redetection on RGB-D images," <b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b>, Accept. <span style="color:red">(SCI)</span>
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, C. Liu, J. Lei, and L. Yu, "Remaking learning: A lightweight network for saliency redetection on RGB-D images," <b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b>, Accept. <span style="color:red">(SCI)</span> <a href="https://pan.baidu.com/s/1qIPTSdCtbThjASKE8qHA5w">[Results]</a> 提取码: zust 
  <br></li>
   </div>
 	</ul>	
