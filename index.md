@@ -63,7 +63,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Pan, J. Lei, and L. Yu, "TMFNet: Three-Input Multilevel Fusion Network for Detecting Salient Objects in RGB-D Images," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2021.3097393. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9512550" target="_blank">[IEEE Xplore] </a> 
 <br></li>
   
-<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Pan, J. Lei, and L. Yu, "APNet: Adversarial-Learning-Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2021.. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/" target="_blank">[IEEE Xplore] </a> 
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Zhu, J. Lei, J. Wan, and L. Yu, "APNet: Adversarial-Learning-Assistance and Perceived Importance Fusion Network for All-Day RGB-T Salient Object Detection," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2021.. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, C. Liu, J. Lei, and L. Yu, "Remaking learning: A lightweight network for saliency redetection on RGB-D images," <b><i>SCIENCE CHINA Information Sciences （中国科学）</i></b>, Accept. <span style="color:red">(SCI)</span> <a href="https://pan.baidu.com/s/1qIPTSdCtbThjASKE8qHA5w">[Results]</a> 提取码: zust 
