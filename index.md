@@ -57,7 +57,7 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Zhu, J. Lei, J. Wan, and L. Yu, "CCAFNet: Crossflow and cross-scale adaptive fusion network for detecting salient objects in RGB-D images," <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2021.3077767. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9424966" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/zyrant/CCAFNet">[Code & Results]</a>
 <br></li>
 
-<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, Q. Jiang, L. Yu and T. Luo, “Blind Binocular Visual Quality Predictor Using Deep Fusion Network,” <b><i>IEEE Transactions on Computational Imaging</i></b>, vol. 6, pp. 883-893, 2020, doi: 10.1109/TCI.2020.2993640. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9093188" target="_blank">[IEEE Xplore] </a> 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, W. Liu, J. Lei, T. Luo, L. Yu, “Deep binocular fixation prediction using hierarchical multimodal fusion network,” <b><i>IEEE Transactions on Cognitive and Developmental Systems</i></b>, doi: 10.1109/TCDS.2021.3051010. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9320595" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Pan, J. Lei, and L. Yu, "TMFNet: Three-Input Multilevel Fusion Network for Detecting Salient Objects in RGB-D Images," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, DOI: 10.1109/TETCI.2021.3097393. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9512550" target="_blank">[IEEE Xplore] </a> 
@@ -102,9 +102,9 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, W. Qiu and M. Wu, “Utilizing Dictionary Learning and Machine Learning for Blind Quality Assessment of 3-D Images,” <b><i>IEEE Transactions on Broadcasting</i></b>, vol. 63, no. 2, pp. 404-415, June 2017, doi: 10.1109/TBC.2016.2638620. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/7811252" target="_blank">[IEEE Xplore] </a> 
 <br></li>
-<li style="margin-bottom: 15px"><b>W. Zhou*</b>, W. Liu, J. Lei, T. Luo, L. Yu, “Deep binocular fixation prediction using hierarchical multimodal fusion network,” <b><i>IEEE Transactions on Cognitive and Developmental Systems</i></b>, doi: 10.1109/TCDS.2021.3051010. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9320595" target="_blank">[IEEE Xplore] </a> 
-<br></li>
 
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, Q. Jiang, L. Yu and T. Luo, “Blind Binocular Visual Quality Predictor Using Deep Fusion Network,” <b><i>IEEE Transactions on Computational Imaging</i></b>, vol. 6, pp. 883-893, 2020, doi: 10.1109/TCI.2020.2993640. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9093188" target="_blank">[IEEE Xplore] </a> 
+<br></li>
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M.-W. Wu, T. Luo, “Blind quality estimator for 3D images based on binocular combination and extreme learning machine,” <b><i>Pattern Recognition</i></b>, vol. 71, pp. 207–217, Nov. 2017. <span style="color:red">(SCI)</span> 
 <br></li>
 
