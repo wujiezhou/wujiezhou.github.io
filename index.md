@@ -115,3 +115,12 @@ I am looking for self-motivated candidates who have solid mathematical backgroun
 </div>
 </ul>	
 
+ <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=LZZ0YTbipXFWZ6lvSaTJt75IoLIi9silsXWRuQDdIwA"></script>
+
+	
+		<script type="text/javascript" src="./files/jquery.min.js.下载"></script>
+		<script type="text/javascript" src="./files/bootstrap.js.下载"></script>
+		<script type="text/javascript" src="./files/jquery.banner.js.下载"></script>
+		<script type="text/javascript" src="./files/jquery.prettyPhoto.js.下载"></script>		
+		<script type="text/javascript" src="./files/jquery.isotope.js.下载"></script>	
+		<script type="text/javascript" src="./files/main.js.下载"></script>		
