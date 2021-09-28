@@ -17,11 +17,6 @@
   </tr>  
 </table> 
 
-### Student Recruitment
-<p style="text-align:justify; text-justify:inter-ideograph;">
-I am looking for self-motivated candidates who have solid mathematical backgrounds, strong English ability, and strong coding skills, including senior undergraduate and postgraduate. If you are interested in doing research on Computer Vision, Deep Learning, and image processing, please drop me an e-mail (wujiezhou@163.com) with your detailed CV.
-</p>
-
 ### Recent News
 
 <div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been accepted by <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i> </b> </div>
