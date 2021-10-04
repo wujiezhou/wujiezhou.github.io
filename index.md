@@ -30,7 +30,6 @@
 <div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b> </div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </div>
-………………
 
 ### Selected Publications
 #### Saliency Prediction / Salient Object Detection
