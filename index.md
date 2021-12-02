@@ -19,7 +19,7 @@
 
 ### Recent News
 
-<div style="text-align:justify;text-justify:inter-ideograph">12/2021 One paper has been accepted by <span style="color:red"><b><i>AAAI</i> </b> </div></span>
+<div style="text-align:justify;text-justify:inter-ideograph">12/2021 One paper has been accepted by <span style="color:red"><b><i>AAAI2022 Acceptance rate 15%</i> </b> </div></span>
 
 <div style="text-align:justify;text-justify:inter-ideograph">11/2021 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </div></span>
 
