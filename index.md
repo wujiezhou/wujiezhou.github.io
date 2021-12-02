@@ -19,21 +19,21 @@
 
 ### Recent News
 
-<div style="text-align:justify;text-justify:inter-ideograph">12/2021 One paper has been accepted by <span style="color:red"><b><i>AAAI2022 Acceptance rate 15%</i> </b> </div></span>
+<div style="text-align:justify;text-justify:inter-ideograph">12/2021 One paper has been accepted by <span style="color:red"><b><i>AAAI2022 Acceptance rate 15%</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">11/2021 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </div></span>
+<div style="text-align:justify;text-justify:inter-ideograph">11/2021 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE TETCI</i> </b> </div></span>
+<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE TETCI</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </div></span>
+<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </div></span>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Image Processing</i> </b> </div></span>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b> </div></span>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b> </span> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </div></span>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </span> </div>
 
 ### Selected Publications
 #### Saliency Prediction / Salient Object Detection
