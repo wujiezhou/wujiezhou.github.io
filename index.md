@@ -23,7 +23,7 @@
 
 <div style="text-align:justify;text-justify:inter-ideograph">11/2021 One paper has been newly selected as <b><i>ESI Highly Cited Paper</i> </b> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been accepted by <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been accepted by <b><i>IEEE TETCI</i> </b> </div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been newly selected as <b><i>ESI Highly Cited Paper</i> </b> </div>
 
@@ -86,12 +86,11 @@
 <br></li>
 
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, T. Luo, “TSNet: Three-stream Self-attention Network for RGB-D Indoor Semantic Segmentation,” <b><i>IEEE Intelligent Systems</i></b>, vol. 36, no. 4, pp. 73-78, 2021. doi: 10.1109/MIS.2020.2999462. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9113665" target="_blank">[IEEE Xplore] </a> 
-
+<br></li>
+	
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S Dong, C. Xu, G. Qian, “Edge-aware guidance fusion network for RGB–thermal scene parsing,” <b><i>in Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)</i></b>, accepted <span style="color:red">(CCF A)</span>  
 <br></li>
  
-<br></li>
-	
 </div>
 </ul>	
   
