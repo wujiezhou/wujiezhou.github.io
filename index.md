@@ -19,21 +19,21 @@
 
 ### Recent News
 
-<div style="text-align:justify;text-justify:inter-ideograph">12/2021 One paper has been accepted by <b><i>AAAI</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">12/2021 One paper has been accepted by <span style="color:red"><b><i>AAAI</i> </b> </div></span>
 
-<div style="text-align:justify;text-justify:inter-ideograph">11/2021 One paper has been newly selected as <b><i>ESI Highly Cited Paper</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">11/2021 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </div></span>
 
-<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been accepted by <b><i>IEEE TETCI</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE TETCI</i> </b> </div></span>
 
-<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been newly selected as <b><i>ESI Highly Cited Paper</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </div></span>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </div></span>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>IEEE Transactions on Image Processing</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Image Processing</i> </b> </div></span>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b> </div></span>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </div></span>
 
 ### Selected Publications
 #### Saliency Prediction / Salient Object Detection
@@ -85,7 +85,7 @@
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Jin, J. Lei, and J.-N. Hwang, "CEGFNet: Common Extraction and Gate Fusion Network for Scene Parsing of Remote Sensing Images," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, doi: 10.1109/TGRS.2021.3109626. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9538389" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/NIT-JJH/CEGFNet">[Code & Results]</a> 
 <br></li>
 
-<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, T. Luo, “TSNet: Three-stream Self-attention Network for RGB-D Indoor Semantic Segmentation,” <b><i>IEEE Intelligent Systems</i></b>, vol. 36, no. 4, pp. 73-78, 2021. doi: 10.1109/MIS.2020.2999462. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9113665" target="_blank">[IEEE Xplore] </a> 
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, T. Luo, “TSNet: Three-stream Self-attention Network for RGB-D Indoor Semantic Segmentation,” <b><i>IEEE Intelligent Systems</i></b>, vol. 36, no. 4, pp. 73-78, 2021. doi: 10.1109/MIS.2020.2999462. <span style="color:red">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9113665" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 	
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S Dong, C. Xu, G. Qian, “Edge-aware guidance fusion network for RGB–thermal scene parsing,” <b><i>in Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)</i></b>, accepted <span style="color:red">(CCF A)</span>  
