@@ -88,7 +88,7 @@
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, T. Luo, “TSNet: Three-stream Self-attention Network for RGB-D Indoor Semantic Segmentation,” <b><i>IEEE Intelligent Systems</i></b>, vol. 36, no. 4, pp. 73-78, 2021. doi: 10.1109/MIS.2020.2999462. <span style="color:red">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9113665" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 	
-<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, C. Xu, Y. Qian, “Edge-aware guidance fusion network for RGB–thermal scene parsing,” <b><i>in Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)</i></b>, accepted, <span style="color:red">(CCF A)</span>  
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, C. Xu, Y. Qian, “Edge-aware guidance fusion network for RGB–thermal scene parsing,” <b><i>in Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)</i></b>, accepted, <span style="color:red"><a href="https://github.com/ShaohuaDong2021/EGFNet">[Code & Results]</a>(CCF A)</span>  
 <br></li>
  
 </div>
