@@ -75,7 +75,10 @@
 
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
-  
+	
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, C. Xu, Y. Qian, “Edge-aware guidance fusion network for RGB–thermal scene parsing,” <b><i>in Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)</i></b>, Accept, <span style="color:red"><a href="https://github.com/ShaohuaDong2021/EGFNet">[Code & Results]</a>(CCF A类)</span>  
+<br></li>
+	
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i></b>, vol. 30, pp. 7790-7802, 2021. doi: 10.1109/TIP.2021.3109518. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9531449" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/Jinfu0913/GMNet">[Code & Results]</a> 
 <br></li>
 
@@ -86,9 +89,6 @@
 <br></li>
 
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, T. Luo, “TSNet: Three-stream Self-attention Network for RGB-D Indoor Semantic Segmentation,” <b><i>IEEE Intelligent Systems</i></b>, vol. 36, no. 4, pp. 73-78, 2021. doi: 10.1109/MIS.2020.2999462. <span style="color:red">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9113665" target="_blank">[IEEE Xplore] </a> 
-<br></li>
-	
-<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, C. Xu, Y. Qian, “Edge-aware guidance fusion network for RGB–thermal scene parsing,” <b><i>in Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)</i></b>, Accept, <span style="color:red"><a href="https://github.com/ShaohuaDong2021/EGFNet">[Code & Results]</a>(CCF A)</span>  
 <br></li>
  
 </div>
