@@ -19,7 +19,7 @@
 
 ### Recent News
 
-<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:red"><b><i> Popular Documents (the 50 most frequently accessed documents) </i> </b> </span> in IEEE Transactions on Image Processing.</div> 
+<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:red"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in IEEE Transactions on Image Processing.</div> 
 
 <div style="text-align:justify;text-justify:inter-ideograph">12/2021 One paper has been accepted by <span style="color:red"><b><i>AAAI2022, Acceptance rate 15%</i> </b> </span></div>
 
