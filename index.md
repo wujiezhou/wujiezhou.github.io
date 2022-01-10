@@ -101,7 +101,7 @@
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
   
-<li style="margin-bottom: 15px"><b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M. Wu and T. Luo, “Local and Global Feature Learning for Blind Quality Evaluation of Screen Content and Natural Scene Images,” <b><i>IEEE Transactions on Image Processing</i></b>, vol. 27, no. 5, pp. 2086-2095, May 2018, doi: 10.1109/TIP.2018.2794207. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/8259349" target="_blank">[IEEE Xplore] </a> 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M. Wu and T. Luo, “Local and Global Feature Learning for Blind Quality Evaluation of Screen Content and Natural Scene Images,” <b><i>IEEE Transactions on Image Processing</i></b>, vol. 27, no. 5, pp. 2086-2095, May 2018, doi: 10.1109/TIP.2018.2794207. <span style="color:red">(SCI, CCF A类)</span> <a href="https://ieeexplore.ieee.org/document/8259349" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 
 <li style="margin-bottom: 15px"><b>W. Zhou*</b> and L. Yu, “Binocular Responses for No-Reference 3D Image Quality Assessment,” <b><i>IEEE Transactions on Multimedia</i></b>, vol. 18, no. 6, pp. 1077-1084, June 2016, doi: 10.1109/TMM.2016.2542580. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/7434031" target="_blank">[IEEE Xplore] </a> 
