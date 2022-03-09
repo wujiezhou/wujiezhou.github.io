@@ -19,6 +19,8 @@
 
 ### Recent News
 
+<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE TETCI</i> </b> </span></div>
+
 <div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:red"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:red"><b><i> IEEE Transactions on Image Processing.</i> </b> </span> </div> 
