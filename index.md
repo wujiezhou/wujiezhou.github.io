@@ -19,6 +19,8 @@
 
 ### Recent News
 
+<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
+
 <div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE TETCI</i> </b> </span></div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
@@ -93,6 +95,9 @@
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, X. Lin, J. Lei, L. Yu and J.-N. Hwang, "MFFENet: Multiscale Feature Fusion and Enhancement Network for RGB–Thermal Urban Road Scene Parsing,” <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2021.3086618. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9447924" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1dm1ZKfEStRNCdNabFcj8wQ">[Results]</a> 提取码: 1d45 
 <br></li>
 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Jin, J. Lei, L. Yu, "CIMFNet: Cross-layer Interaction and Multiscale Fusion Network for Semantic Segmentation of High-Resolution Remote Sensing Images,” <b><i>IEEE Journal of Selected Topics in Signal Processing</i></b>, doi: 10.1109/JSTSP.2022. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9447924" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+	
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Jin, J. Lei, and J.-N. Hwang, "CEGFNet: Common Extraction and Gate Fusion Network for Scene Parsing of Remote Sensing Images," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, doi: 10.1109/TGRS.2021.3109626. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9538389" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/NIT-JJH/CEGFNet">[Code & Results]</a> 
 <br></li>
 
