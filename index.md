@@ -109,7 +109,7 @@
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, J. Lei, T. Luo, “TSNet: Three-stream Self-attention Network for RGB-D Indoor Semantic Segmentation,” <b><i>IEEE Intelligent Systems</i></b>, vol. 36, no. 4, pp. 73-78, 2021. doi: 10.1109/MIS.2020.2999462. <span style="color:red">(SCI, Popular Documents, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9113665" target="_blank">[IEEE Xplore] </a> 
 <br></li>
  
-<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Lv, J. Lei, and L. Yu, "RFNet: Reverse Fusion Network with Attention Mechanism for RGB-D Indoor Scene Understanding," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2022.2160720. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9583676/" target="_blank">[IEEE Xplore] </a></a> 
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Lv, J. Lei, and L. Yu, "RFNet: Reverse Fusion Network with Attention Mechanism for RGB-D Indoor Scene Understanding," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2022.2160720. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9583676/" target="_blank">[IEEE Xplore] </a> 
 <br></li>	
 	
 </div>
