@@ -19,7 +19,7 @@
 
 ### Recent News
 
-<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Intelligent Vehicles</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">04/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Intelligent Vehicles</i> </b> </span></div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Multimedia</i> </b> </span></div>
 
