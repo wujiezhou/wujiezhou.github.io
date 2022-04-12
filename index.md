@@ -114,7 +114,7 @@
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, J. Lei, and L. Yu, “MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding,” <b><i>IEEE Transactions on Intelligent Vehicles </i></b>, doi: 10.1109/TIV.2022.3164899. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9749834" target="_blank">[IEEE Xplore] </a> 
 <br></li>	
 	
-<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Lv, J. Lei, and L. Yu, "RFNet: Reverse Fusion Network with Attention Mechanism for RGB-D Indoor Scene Understanding," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2022.2160720. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9583676/" target="_blank">[IEEE Xplore] </a> 
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Lv, J. Lei, and L. Yu, "RFNet: Reverse Fusion Network with Attention Mechanism for RGB-D Indoor Scene Understanding," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2022.2160720. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9755197/" target="_blank">[IEEE Xplore] </a> 
 <br></li>	
 	
 </div>
