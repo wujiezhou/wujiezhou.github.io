@@ -19,6 +19,10 @@
 
 ### Recent News
 
+<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper is recognized as <span style="color:red"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=9670" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:red"><b><i> IEEE Transactions on Circuits and Systems for Video Technology.</i> </b> </span> </div> 
+
 <div style="text-align:justify;text-justify:inter-ideograph">04/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Intelligent Vehicles</i> </b> </span></div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Multimedia</i> </b> </span></div>
@@ -104,6 +108,9 @@
 	
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Jin, J. Lei, L. Yu, "CIMFNet: Cross-layer Interaction and Multiscale Fusion Network for Semantic Segmentation of High-Resolution Remote Sensing Images,” <b><i>IEEE Journal of Selected Topics in Signal Processing</i></b>, doi: 10.1109/JSTSP.2022.3159032. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9735276" target="_blank">[IEEE Xplore] </a> 
 <br></li>
+	
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, E. Yang, J. Lei, L. Yu, "FRNet: Feature Reconstruction Network for RGB-D Indoor Scene Parsing,” <b><i>IEEE Journal of Selected Topics in Signal Processing</i></b>, doi: 10.1109/JSTSP.2022.3174338. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9735276" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/EnquanYang2022/FRNet">[Code & Results]</a>
+<br></li>	
 	
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Jin, J. Lei, and J.-N. Hwang, "CEGFNet: Common Extraction and Gate Fusion Network for Scene Parsing of Remote Sensing Images," <b><i>IEEE Transactions on Geoscience and Remote Sensing</i></b>, doi: 10.1109/TGRS.2021.3109626. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9538389" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/NIT-JJH/CEGFNet">[Code & Results]</a> 
 <br></li>
