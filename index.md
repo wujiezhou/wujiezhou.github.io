@@ -19,6 +19,8 @@
 
 ### Recent News
 
+<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been newly selected as <span style="color:red"><b><i>ESI Hot Paper</i> </b> </span></div>
+
 <div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper is recognized as <span style="color:red"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=76" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:red"><b><i> IEEE Transactions on Circuits and Systems for Video Technology.</i> </b> </span> </div> 
@@ -97,7 +99,7 @@
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, C. Xu, Y. Qian, “Edge-aware guidance fusion network for RGB–thermal scene parsing,” <b><i>in Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI)</i></b>, Accept, <span style="color:red"><a href="https://github.com/ShaohuaDong2021/EGFNet">[Code & Results]</a>     (CCF A类) </span>  
 <br></li>
 	
-<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i></b>, vol. 30, pp. 7790-7802, 2021. doi: 10.1109/TIP.2021.3109518. <span style="color:red">(SCI, CCF A类, Popular Documents)</span> <a href="https://ieeexplore.ieee.org/document/9531449" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/Jinfu0913/GMNet">[Code & Results]</a> 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i></b>, vol. 30, pp. 7790-7802, 2021. doi: 10.1109/TIP.2021.3109518. <span style="color:red">(SCI, CCF A类, Popular Documents, ESI热点论文)</span> <a href="https://ieeexplore.ieee.org/document/9531449" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/Jinfu0913/GMNet">[Code & Results]</a> 
 <br></li>
 
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, X. Lin, J. Lei, L. Yu and J.-N. Hwang, "MFFENet: Multiscale Feature Fusion and Enhancement Network for RGB–Thermal Urban Road Scene Parsing,” <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2021.3086618. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9447924" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1dm1ZKfEStRNCdNabFcj8wQ">[Results]</a> 提取码: 1d45 
