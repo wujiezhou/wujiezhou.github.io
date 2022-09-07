@@ -19,6 +19,8 @@
 
 ### Recent News
 
+<div style="text-align:justify;text-justify:inter-ideograph">08/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
+
 <div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been newly selected as <span style="color:red"><b><i>ESI Hot Paper</i> </b> </span></div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
@@ -61,7 +63,7 @@
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
   
-<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Q. Guo, J. Lei, L. Yu and J.-N. Hwang, "IRFR-Net: Interactive Recursive Feature-reshaping Network for Detecting Salient Objects in RGB-D Images," <b><i>IEEE Transactions on Neural Networks and Learning Systems</i></b>, doi: 10.1109/TNNLS.2021.3105484. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9519891" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1GvyrRANw0Tk3Wg-RvodCcQ">[Results]</a> 提取码: dwdn 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Q. Guo, J. Lei, L. Yu and J.-N. Hwang, "IRFR-Net: Interactive Recursive Feature-reshaping Network for Detecting Salient Objects in RGB-D Images," <b><i>IEEE Transactions on Neural Networks and Learning Systems</i></b>, doi: 10.1109/TNNLS.2021.3105484. <span style="color:red">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9519891" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1GvyrRANw0Tk3Wg-RvodCcQ">[Results]</a> 提取码: dwdn 
 <br></li>
 
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Lv, J. Lei and L. Yu, “Global and Local-Contrast Guides Content-Aware Fusion for RGB-D Saliency Prediction,” <b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i></b>, vol. 51, no. 6, pp. 3641-3649, 2021. doi: 10.1109/TSMC.2019.2957386. <span style="color:red">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/8941002" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1ojHfKJRWaYAsrCTAP8WelQ">[Results]</a> 提取码: 3pgj 
@@ -70,10 +72,10 @@
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Wu, J. Lei, J.-N. Hwang and L. Yu, “Salient Object Detection in Stereoscopic 3D Images Using a Deep Convolutional Residual Autoencoder,” <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2020.3025166. <span style="color:red">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9201176" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 
-<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Q. Guo, J. Lei, L. Yu and J.-N. Hwang, “ECFFNet: Effective and Consistent Feature Fusion Network for RGB-T Salient Object Detection,” <b><i>IEEE Transactions on Circuits and Systems for Video Technology</i></b>, doi: 10.1109/TCSVT.2021.3077058. <span style="color:red">(SCI, Popular Documents)</span> <a href="https://ieeexplore.ieee.org/document/9420662" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1Cp6RQMwX3GOTdn3PNyQ72A">[Results]</a> 提取码: tx48 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Q. Guo, J. Lei, L. Yu and J.-N. Hwang, “ECFFNet: Effective and Consistent Feature Fusion Network for RGB-T Salient Object Detection,” <b><i>IEEE Transactions on Circuits and Systems for Video Technology</i></b>, doi: 10.1109/TCSVT.2021.3077058. <span style="color:red">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9420662" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1Cp6RQMwX3GOTdn3PNyQ72A">[Results]</a> 提取码: tx48 
 <br></li>
 
-<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Zhu, J. Lei, J. Wan, and L. Yu, "CCAFNet: Crossflow and cross-scale adaptive fusion network for detecting salient objects in RGB-D images," <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2021.3077767. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9424966" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/zyrant/CCAFNet">[Code & Results]</a>
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Zhu, J. Lei, J. Wan, and L. Yu, "CCAFNet: Crossflow and cross-scale adaptive fusion network for detecting salient objects in RGB-D images," <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2021.3077767. <span style="color:red">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9424966" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/zyrant/CCAFNet">[Code & Results]</a>
 <br></li>
 
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, W. Liu, J. Lei, T. Luo, L. Yu, “Deep binocular fixation prediction using hierarchical multimodal fusion network,” <b><i>IEEE Transactions on Cognitive and Developmental Systems</i></b>, doi: 10.1109/TCDS.2021.3051010. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9320595" target="_blank">[IEEE Xplore] </a> 
@@ -128,7 +130,15 @@
 	
 </div>
 </ul>	
+#### Crowd Counting
+<ul class="graid3-ul">
+<div style="text-align: justify; display: block; margin-right: auto;">
+	
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Pan, L. Ye, and L. Yu, "DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting," <b><i> IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2022.3203385. <span style="color:red">(SCI)</span> <a href="doi: 10.1109/TITS.2022.3203385/" target="_blank">[IEEE Xplore] </a> 
+<br></li>	
   
+</div>
+</ul>
 #### Image Quality Assessment
   
 <ul class="graid3-ul">
