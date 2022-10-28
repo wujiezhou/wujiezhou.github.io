@@ -136,7 +136,7 @@
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
 	
-<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Pan, L. Ye, and L. Yu, "DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting," <b><i> IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2022.3203385. <span style="color:red">(SCI)</span> <a href="doi: 10.1109/TITS.2022.3203385/" target="_blank">[IEEE Xplore] </a> 
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Pan, L. Ye, and L. Yu, "DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting," <b><i> IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2022.3203385. <span style="color:red">(SCI)</span> <a href="doi: 10.1109/TITS.2022.3203385/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/panyi95/DEFNet">[Code & Results]</a> 
 <br></li>	
   
 </div>
