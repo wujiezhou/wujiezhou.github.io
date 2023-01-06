@@ -19,6 +19,8 @@
 
 ### Recent News
 
+<div style="text-align:justify;text-justify:inter-ideograph">01/2023 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Instrumentation and Measurement</i> </b> </span></div>
+
 <div style="text-align:justify;text-justify:inter-ideograph">08/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been newly selected as <span style="color:red"><b><i>ESI Hot Paper</i> </b> </span></div>
