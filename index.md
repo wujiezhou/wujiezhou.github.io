@@ -19,6 +19,8 @@
 
 ### Recent News
 
+<div style="text-align:justify;text-justify:inter-ideograph">01/2023 One paper has been accepted by <span style="color:red"><b><i>Information Fusion </i> </b> </span></div>
+
 <div style="text-align:justify;text-justify:inter-ideograph">01/2023 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Instrumentation and Measurement</i> </b> </span></div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">08/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
@@ -167,4 +169,4 @@
 </div>
 </ul>	
 
-	
+<a href="https://clustrmaps.com/site/1bsiu"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_STtdGdg0IG1p3VGKdLhg5kqLMmiLIfMpCIbz67P0Tc&cl=ffffff" /></a>
