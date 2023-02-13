@@ -137,7 +137,18 @@
 <br></li>	
 	
 </div>
-</ul>	
+</ul>
+
+#### Surface Defect Inspection
+
+<ul class="graid3-ul">
+<div style="text-align: justify; display: block; margin-right: auto;">
+	
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, and K. Hong, "FHENet: Lightweight Feature Hierarchical Exploration Network for Real-Time Rail Surface Defect Inspection in RGB-D Images," <b><i> IEEE Transactions on Instrumentation and Measurement</i></b>, doi: 10.1109/TIM.2023.3237830. <span style="color:red">(SCI)</span> <a href="doi: 10.1109/TIM.2023.3237830/" target="_blank">[IEEE Xplore] </a>  <a href="[https://github.com/panyi95/DEFNet](https://github.com/hjklearn/Rail-Defect-Detection)">[Code & Results]</a> 
+<br></li>	
+  
+</div>
+</ul>
 
 #### Crowd Counting
 
