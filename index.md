@@ -145,6 +145,9 @@
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Yue, M. Fang, X. Qian, R. Yang, and L. Yu, "BCINet: Bilateral cross-modal interaction network for indoor scene understanding in RGB-D images," <b><i>Information Fusion </i></b>, doi: 10.1016/j.inffus.2023.01.016. <span style="color:red">(SCI)</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523000234/" target="_blank">[Science Direct] </a> 
 <br></li>
 	
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, X. Fan, L. Yu and J. Lei,"MISNet: Multiscale Cross-layer Interactive and Similarity Refinement Network for Scene Parsing of Aerial Images," <b><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing </i></b>, doi: 10.1109/JSTARS.2023.3243247. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10040743/" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+	
 </div>
 </ul>
 
