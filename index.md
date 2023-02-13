@@ -71,6 +71,9 @@
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
   
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Zhu, J. Lei, R. Yang, and L. Yu, "LSNet: Lightweight Spatial Boosting Network for Detecting Salient Objects in RGB-Thermal Images," <b><i>IEEE Transactions on Image Processing </i></b>, doi: 10.1109/TIP.2023.3242775. <span style="color:red">(SCI)</span> <a href="[https://ieeexplore.ieee.org/document/9519891]" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/zyrant/LSNet">[Code & Results]</a> 
+<br></li>	
+	
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, Q. Guo, J. Lei, L. Yu and J.-N. Hwang, "IRFR-Net: Interactive Recursive Feature-reshaping Network for Detecting Salient Objects in RGB-D Images," <b><i>IEEE Transactions on Neural Networks and Learning Systems</i></b>, doi: 10.1109/TNNLS.2021.3105484. <span style="color:red">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9519891" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1GvyrRANw0Tk3Wg-RvodCcQ">[Results]</a> 提取码: dwdn 
 <br></li>
 
