@@ -142,6 +142,9 @@
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Lv, J. Lei, and L. Yu, "Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing," <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2023.3242651. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10041960/" target="_blank">[IEEE Xplore] </a> 
 <br></li>
 	
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Yue, M. Fang, X. Qian, R. Yang, and L. Yu, "BCINet: Bilateral cross-modal interaction network for indoor scene understanding in RGB-D images," <b><i>Information Fusion </i></b>, doi: 10.1016/j.inffus.2023.01.016. <span style="color:red">(SCI)</span> <a href="https://doi.org/10.1016/j.inffus.2023.01.016/" target="_blank">[Science Direct] </a> 
+<br></li>
+	
 </div>
 </ul>
 
