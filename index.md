@@ -138,6 +138,9 @@
 	
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Lv, J. Lei, and L. Yu, "RFNet: Reverse Fusion Network with Attention Mechanism for RGB-D Indoor Scene Understanding," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2022.2160720. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9755197/" target="_blank">[IEEE Xplore] </a> 
 <br></li>	
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Lv, J. Lei, and L. Yu, "Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing," <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2023.3242651. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10041960/" target="_blank">[IEEE Xplore] </a> 
+<br></li>
 	
 </div>
 </ul>
