@@ -18,6 +18,9 @@
 </table> 
 
 ### Recent News
+<div style="text-align:justify;text-justify:inter-ideograph">05/2023 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:red"><b><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i> </b> </span> </div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
 
