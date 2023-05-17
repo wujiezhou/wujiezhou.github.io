@@ -124,6 +124,9 @@
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, J. Liu, J. Lei, L. Yu and J.-N. Hwang,“GMNet: Graded-Feature Multilabel-Learning Network for RGB-Thermal Urban Scene Semantic Segmentation," <b><i>IEEE Transactions on Image Processing</i></b>, vol. 30, pp. 7790-7802, 2021. doi: 10.1109/TIP.2021.3109518. <span style="color:red">(SCI, CCF A类, Popular Documents, ESI热点论文)</span> <a href="https://ieeexplore.ieee.org/document/9531449" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/Jinfu0913/GMNet">[Code & Results]</a> 
 <br></li>
 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, H. Zhang, W. Yan, and W. Lin, “MMSMCNet: Modal Memory Sharing and Morphological Complementary Networks for RGB-T Urban Scene Semantic Segmentation,” <b><i>IEEE Transactions on Circuits and Systems for Video Technology</i></b>, doi: 10.1109/TCSVT.2023.3275314. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10123009" target="_blank">[IEEE Xplore] </a> <a href="https://github.com/2021nihao/MMSMCNet">[Results]</a>
+<br></li>
+	
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, X. Lin, J. Lei, L. Yu and J.-N. Hwang, "MFFENet: Multiscale Feature Fusion and Enhancement Network for RGB–Thermal Urban Road Scene Parsing,” <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2021.3086618. <span style="color:red">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9447924" target="_blank">[IEEE Xplore] </a> <a href="https://pan.baidu.com/s/1dm1ZKfEStRNCdNabFcj8wQ">[Results]</a> 提取码: 1d45 
 <br></li>
 
