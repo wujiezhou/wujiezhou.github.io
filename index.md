@@ -21,55 +21,55 @@
 
 <div style="text-align:justify;text-justify:inter-ideograph">05/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Circuits and Systems for Video Technology</i> </b> </span> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">05/2023 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">05/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:red"><b><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i> </b> </span> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i> </b> </span> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">02/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">01/2023 One paper has been accepted by <span style="color:red"><b><i>Information Fusion </i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">01/2023 One paper has been accepted by <span style="color:black"><b><i>Information Fusion </i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">01/2023 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Instrumentation and Measurement</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">01/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Instrumentation and Measurement</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been newly selected as <span style="color:red"><b><i>ESI Hot Paper</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been newly selected as <span style="color:black"><b><i>ESI Hot Paper</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper is recognized as <span style="color:red"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=76" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:red"><b><i> IEEE Transactions on Circuits and Systems for Video Technology.</i> </b> </span> </div> 
+<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=76" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:red"><b><i> IEEE Transactions on Circuits and Systems for Video Technology.</i> </b> </span> </div> 
 
-<div style="text-align:justify;text-justify:inter-ideograph">04/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Intelligent Vehicles</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">04/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Vehicles</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Multimedia</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Multimedia</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:red"><b><i>IEEE TETCI</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">03/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE TETCI</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper has been newly selected as <span style="color:black"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:red"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:red"><b><i> IEEE Transactions on Image Processing.</i> </b> </span> </div> 
+<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:red"><b><i> IEEE Transactions on Image Processing.</i> </b> </span> </div> 
 
-<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:red"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=9670" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:red"><b><i> IEEE Intelligent Systems.</i> </b> </span> </div> 
+<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=9670" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:black"><b><i> IEEE Intelligent Systems.</i> </b> </span> </div> 
 
-<div style="text-align:justify;text-justify:inter-ideograph">12/2021 One paper has been accepted by <span style="color:red"><b><i>AAAI2022, Acceptance rate 15%</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">12/2021 One paper has been accepted by <span style="color:black"><b><i>AAAI2022, Acceptance rate 15%</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">11/2021 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">11/2021 One paper has been newly selected as <span style="color:black"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE TETCI</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been accepted by <span style="color:black"><b><i>IEEE TETCI</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been newly selected as <span style="color:red"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">09/2021 One paper has been newly selected as <span style="color:black"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </span></div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b> </span> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:black"><b><i>SCIENCE CHINA Information Sciences （中国科学）</i> </b> </span> </div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:red"><b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </span> </div>
+<div style="text-align:justify;text-justify:inter-ideograph">08/2021 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Neural Networks and Learning Systems</i> </b> </span> </div>
 
 ### Selected Publications
 #### Saliency Prediction / Salient Object Detection
