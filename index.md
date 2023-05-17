@@ -39,7 +39,7 @@
 
 <div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Journal of Selected Topics in Signal Processing</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=76" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:red"><b><i> IEEE Transactions on Circuits and Systems for Video Technology.</i> </b> </span> </div> 
+<div style="text-align:justify;text-justify:inter-ideograph">05/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=76" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:black"><b><i> IEEE Transactions on Circuits and Systems for Video Technology.</i> </b> </span> </div> 
 
 <div style="text-align:justify;text-justify:inter-ideograph">04/2022 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Vehicles</i> </b> </span></div>
 
@@ -51,7 +51,7 @@
 
 <div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper has been newly selected as <span style="color:black"><b><i>ESI Highly Cited Paper</i> </b> </span></div>
 
-<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:red"><b><i> IEEE Transactions on Image Processing.</i> </b> </span> </div> 
+<div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=83" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:black"><b><i> IEEE Transactions on Image Processing.</i> </b> </span> </div> 
 
 <div style="text-align:justify;text-justify:inter-ideograph">01/2022 One paper is recognized as <span style="color:black"><b><i> <a href="https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=9670" target="_blank"> Popular Documents (the 50 most frequently accessed documents) </a> </i> </b> </span> in <span style="color:black"><b><i> IEEE Intelligent Systems.</i> </b> </span> </div> 
 
