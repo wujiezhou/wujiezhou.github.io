@@ -19,6 +19,10 @@
 
 ### Recent News
 
+<div style="text-align:justify;text-justify:inter-ideograph">07/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i> </b> </span> </div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">07/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i> </b> </span> </div>
+
 <div style="text-align:justify;text-justify:inter-ideograph">05/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Circuits and Systems for Video Technology</i> </b> </span> </div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">05/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Image Processing</i> </b> </span> </div>
