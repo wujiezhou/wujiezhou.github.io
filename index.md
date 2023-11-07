@@ -19,6 +19,18 @@
 
 ### Recent News
 
+<div style="text-align:justify;text-justify:inter-ideograph">10/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Instrumentation and Measurement</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">10/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Circuits and Systems for Video Technology</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">10/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Multimedia</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">10/2023 One paper has been accepted by <span style="color:black"><b><i>Expert Systems With Applications</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">10/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Transportation Systems</i> </b> </span></div>
+
+<div style="text-align:justify;text-justify:inter-ideograph">09/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Intelligent Vehicles</i> </b> </span></div>
+
 <div style="text-align:justify;text-justify:inter-ideograph">09/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Automation Science and Engineering</i> </b> </span></div>
 
 <div style="text-align:justify;text-justify:inter-ideograph">08/2023 One paper has been accepted by <span style="color:black"><b><i>IEEE Transactions on Geoscience and Remote Sensing</i> </b> </span></div>
