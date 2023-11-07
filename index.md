@@ -152,11 +152,17 @@
 <br></li>
  
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, J. Lei, and L. Yu, “MTANet: Multitask-Aware Network with Hierarchical Multimodal Fusion for RGB-T Urban Scene Understanding,” <b><i>IEEE Transactions on Intelligent Vehicles </i></b>, doi: 10.1109/TIV.2022.3164899. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/9749834" target="_blank">[IEEE Xplore] </a> 
-<br></li>	
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>S. Dong, W. Zhou*</b>, C. Xu, and W. Yan, "EGFNet: Edge-Aware Guidance Fusion Network for RGB–Thermal Urban Scene Parsing," <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2023.3306368. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10234530/" target="_blank">[IEEE Xplore] </a> 
+<br></li>
 
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Lv, J. Lei, and L. Yu, "Embedded Control Gate Fusion and Attention Residual Learning for RGB–Thermal Urban Scene Parsing," <b><i>IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2023.3242651. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10041960/" target="_blank">[IEEE Xplore] </a> 
 <br></li>
-	
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, M. Fang, and L. Yu, "CACFNet: Cross-Modal Attention Cascaded Fusion Network for RGB-T Urban Scene Parsing," <b><i>IEEE Transactions on Intelligent Vehicles</i></b>, doi: 10.1109/TIV.2023.3314527. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10251592/" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+ 
 </div>
 </ul>
 
@@ -164,7 +170,11 @@
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Cai, L. Zhang, W. Yan, and L. Yu, "UTLNet: Uncertainty-aware Transformer Localization Network for RGB-Depth Mirror Segmentation,” <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2023.3323890. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10278472/" target="_blank">[IEEE Xplore] </a>  
+<br></li>
 
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, Y. Xiao, W. Yan, and L. Yu, "CMPFFNet: Cross-Modal and Progressive Feature Fusion Network for RGB-D Indoor Scene Semantic Segmentation,” <b><i>IEEE Transactions on Automation Science and Engineering</i></b>, doi: 10.1109/TASE.2023.3313122. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10252155/" target="_blank">[IEEE Xplore] </a>  
+<br></li>
 
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, E. Yang, J. Lei, J. Wan, and L. Yu , "PGDENet: Progressive Guided Fusion and Depth Enhancement Network for RGB-D Indoor Scene Parsing,” <b><i>IEEE Transactions on Multimedia</i></b>, doi: 10.1109/TMM.2022.3161852. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9740493/" target="_blank">[IEEE Xplore] </a>  
 <br></li>
