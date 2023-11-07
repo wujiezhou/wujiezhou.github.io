@@ -209,6 +209,9 @@
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Pan, L. Ye, and L. Yu, "DEFNet: Dual-Branch Enhanced Feature Fusion Network for RGB-T Crowd Counting," <b><i> IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2022.3203385. <span style="color:blue">(SCI)</span> <a href="doi: 10.1109/TITS.2022.3203385/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/panyi95/DEFNet">[Code & Results]</a> 
 <br></li>	
   
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, X. Yang, J. Lei, W. Yan, and L. Yu, "MC 3 Net: Multimodality Cross-Guided Compensation Coordination Network for RGB-T Crowd Counting," <b><i> IEEE Transactions on Intelligent Transportation Systems</i></b>, doi: 10.1109/TITS.2023.3321328. <span style="color:blue">(SCI)</span> <a href="doi: 10.1109/TITS.2023.3321328/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/WBangG/MC3Net">[Code & Results]</a> 
+<br></li>
+
 </div>
 </ul>
 
