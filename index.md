@@ -163,6 +163,9 @@
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Dong, M. Fang, and L. Yu, "CACFNet: Cross-Modal Attention Cascaded Fusion Network for RGB-T Urban Scene Parsing," <b><i>IEEE Transactions on Intelligent Vehicles</i></b>, doi: 10.1109/TIV.2023.3314527. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10251592/" target="_blank">[IEEE Xplore] </a> 
 <br></li>
  
+<li style="margin-bottom: 15px"><b>W. Zhou*</b>, T. Gong, J. Lei and L. Yu, “DBCNet: Dynamic Bilateral Cross-Fusion Network for RGB-T Urban Scene Understanding in Intelligent Vehicles,” <b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i></b>,  doi: 10.1109/TSMC.2023.3298921. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/10217340" target="_blank">[IEEE Xplore] </a>
+	
+<br></li>
 </div>
 </ul>
 
@@ -186,8 +189,11 @@
 <br></li>
 	
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, S. Lv, J. Lei, and L. Yu, "RFNet: Reverse Fusion Network with Attention Mechanism for RGB-D Indoor Scene Understanding," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2022.2160720. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/9755197/" target="_blank">[IEEE Xplore] </a> 
+<br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, G. Xu, F. Qiang, and L. Yu, "ACENet: Auxiliary Context-Information Enhancement Network for RGB-D Indoor Scene Semantic Segmentation," <b><i>IEEE Transactions on Emerging Topics in Computational Intelligence</i></b>, doi: 10.1109/TETCI.2023.3303930. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10226338/" target="_blank">[IEEE Xplore] </a> 
 <br></li>	
-	
+		
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, Y. Yue, M. Fang, X. Qian, R. Yang, and L. Yu, "BCINet: Bilateral cross-modal interaction network for indoor scene understanding in RGB-D images," <b><i>Information Fusion </i></b>, doi: 10.1016/j.inffus.2023.01.016. <span style="color:blue">(SCI, ESI Hot Paper, ESI Highly Cited Paper)</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523000234/" target="_blank">[Science Direct] </a> 
 <br></li>
 
@@ -210,7 +216,10 @@
 
 <li style="margin-bottom: 15px"> <b>W. Zhou*</b>, X. Fan, L. Yu and J. Lei,"MISNet: Multiscale Cross-layer Interactive and Similarity Refinement Network for Scene Parsing of Aerial Images," <b><i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing </i></b>, doi: 10.1109/JSTARS.2023.3243247. <span style="color:blue">(SCI, ESI Hot Paper)</span> <a href="https://ieeexplore.ieee.org/document/10040743/" target="_blank">[IEEE Xplore] </a> 
 <br></li>
-
+		
+<li style="margin-bottom: 15px"> <b>X. Fan, W. Zhou*</b>, X. Qian, and W. Yan, "Progressive Adjacent-Layer coordination symmetric cascade network for semantic segmentation of Multimodal remote sensing images," <b><i>Expert Systems with Applications </i></b>, doi: 10.1016/j.eswa.2023.121999. <span style="color:blue">(SCI)</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423025010/" target="_blank">[Science Direct] </a>
+	
+<br></li>
 </div>
 </ul>
 
