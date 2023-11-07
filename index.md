@@ -189,10 +189,15 @@
 
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
-	
-<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, and K. Hong, "FHENet: Lightweight Feature Hierarchical Exploration Network for Real-Time Rail Surface Defect Inspection in RGB-D Images," <b><i> IEEE Transactions on Instrumentation and Measurement</i></b>, doi: 10.1109/TIM.2023.3237830. <span style="color:blue">(SCI, ESI Hot Paper, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/10019291/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/hjklearn/Rail-Defect-Detection">[Code & Results]</a> 
+
+<li style="margin-bottom: 15px"> <b>W. Zhou</b>, K. Hong, W. Yan, and Q. Jiang, "Modal Evaluation Network via Knowledge Distillation for No-Service Rail Surface Defect Detection," <b><i> IEEE Transactions on Circuits and Systems for Video Technology</i></b>, doi: 10.1109/TCSVT.2023.3325229. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10286557/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/hjklearn/Rail-Defect-Detection">[Code & Results]</a><br></li>
+
+<li style="margin-bottom: 15px"> <b>W. Zhou*</b>, and K. Hong, "FHENet: Lightweight Feature Hierarchical Exploration Network for Real-Time Rail Surface Defect Inspection in RGB-D Images," <b><i> IEEE Transactions on Instrumentation and Measurement</i></b>, doi: 10.1109/TIM.2023.3237830. <span style="color:blue">(SCI, ESI Hot Paper, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/10019291/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/Wang-5ying/PENet-KD">[Code & Results]</a> 
 <br></li>	
-  
+
+<li style="margin-bottom: 15px"> B. Wang, <b>W. Zhou*</b>, W. Yan, Q. Jiang, and R. Cong, "PENet-KD: Progressive Enhancement Network via Knowledge Distillation for Rail Surface Defect Detection," <b><i> IEEE Transactions on Instrumentation and Measurement</i></b>, doi: 10.1109/TIM.2023.33330222. <span style="color:blue">(SCI)</span> <a href="https://ieeexplore.ieee.org/document/10309228/" target="_blank">[IEEE Xplore] </a>  <a href="https://github.com/hjklearn/Rail-Defect-Detection">[Code & Results]</a> 
+<br></li>
+
 </div>
 </ul>
 
