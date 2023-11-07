@@ -134,7 +134,9 @@
 
 </div>
 </ul>	
+
 #### RGB–thermal Semantic Segmentation
+
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
 	
@@ -163,8 +165,8 @@
 <br></li>
  
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, T. Gong, J. Lei and L. Yu, “DBCNet: Dynamic Bilateral Cross-Fusion Network for RGB-T Urban Scene Understanding in Intelligent Vehicles,” <b><i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i></b>,  doi: 10.1109/TSMC.2023.3298921. <span style="color:blue">(SCI, ESI Highly Cited Paper)</span> <a href="https://ieeexplore.ieee.org/document/10217340" target="_blank">[IEEE Xplore] </a>
-	
 <br></li>
+
 </div>
 </ul>
 #### RGB–D Semantic Segmentation
@@ -197,6 +199,7 @@
 
 </div>
 </ul>
+
 #### Remote Sensing Images
 
 <ul class="graid3-ul">
@@ -215,10 +218,11 @@
 <br></li>
 		
 <li style="margin-bottom: 15px"> <b>X. Fan, W. Zhou*</b>, X. Qian, and W. Yan, "Progressive Adjacent-Layer coordination symmetric cascade network for semantic segmentation of Multimodal remote sensing images," <b><i>Expert Systems with Applications </i></b>, doi: 10.1016/j.eswa.2023.121999. <span style="color:blue">(SCI)</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423025010/" target="_blank">[Science Direct] </a>
-	
 <br></li>
+
 </div>
 </ul>
+
 #### Surface Defect Inspection
 
 <ul class="graid3-ul">
@@ -247,6 +251,7 @@
 
 </div>
 </ul>
+
 #### Image Quality Assessment
   
 <ul class="graid3-ul">
@@ -265,7 +270,6 @@
 <br></li>
 <li style="margin-bottom: 15px"><b>W. Zhou*</b>, L. Yu, Y. Zhou, W. Qiu, M.-W. Wu, T. Luo, “Blind quality estimator for 3D images based on binocular combination and extreme learning machine,” <b><i>Pattern Recognition</i></b>, vol. 71, pp. 207–217, Nov. 2017. <span style="color:blue">(SCI)</span> 
 <br></li>
-
 
 </div>
 </ul>	
