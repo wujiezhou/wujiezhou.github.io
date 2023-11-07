@@ -134,7 +134,6 @@
 
 </div>
 </ul>	
-
 #### RGB–thermal Semantic Segmentation
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
@@ -168,7 +167,6 @@
 <br></li>
 </div>
 </ul>
-
 #### RGB–D Semantic Segmentation
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
@@ -199,7 +197,6 @@
 
 </div>
 </ul>
-
 #### Remote Sensing Images
 
 <ul class="graid3-ul">
@@ -222,7 +219,6 @@
 <br></li>
 </div>
 </ul>
-
 #### Surface Defect Inspection
 
 <ul class="graid3-ul">
@@ -238,7 +234,6 @@
 
 </div>
 </ul>
-
 #### Crowd Counting
 
 <ul class="graid3-ul">
@@ -252,7 +247,6 @@
 
 </div>
 </ul>
-
 #### Image Quality Assessment
   
 <ul class="graid3-ul">
