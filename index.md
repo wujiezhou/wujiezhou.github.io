@@ -204,7 +204,6 @@
 </div>
 </ul>
 
-
 #### Surface Defect Inspection
 
 <ul class="graid3-ul">
