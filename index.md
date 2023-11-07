@@ -169,7 +169,9 @@
 
 </div>
 </ul>
+
 #### RGB–D Semantic Segmentation
+
 <ul class="graid3-ul">
 <div style="text-align: justify; display: block; margin-right: auto;">
 
@@ -238,6 +240,7 @@
 
 </div>
 </ul>
+
 #### Crowd Counting
 
 <ul class="graid3-ul">
